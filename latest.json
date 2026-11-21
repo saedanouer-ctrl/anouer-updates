@@ -10,12 +10,12 @@
                 "size":  1359271
             },
     "lite":  {
-                 "version":  "26.0.191.0",
+                 "version":  "26.0.192.0",
                  "min":  "26.0.190.0",
-                 "files":  13,
+                 "files":  19,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "33ca417c82193a209a38254f6bb9f4781fc8ee7c6d6753e59c7948218437e6ca",
-                 "size":  1089508
+                 "sha256":  "8d68c16b1afd477cdb14576bf0e51f65e66ea4dee875d2f85ad16141c972f511",
+                 "size":  1359272
              },
     "notes":  [
                   "البريد الإلكتروني الاحترافي: إرسال الفواتير والتقارير والقوائم مباشرة من البرنامج (Gmail ، Outlook ، Yahoo …) مع مرفقات PDF و Excel",
