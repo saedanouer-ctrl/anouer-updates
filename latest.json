@@ -10,12 +10,12 @@
                 "size":  1555012
             },
     "lite":  {
-                 "version":  "26.0.197.0",
+                 "version":  "26.0.198.0",
                  "min":  "26.0.190.0",
-                 "files":  25,
+                 "files":  27,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "b1f710bcfb9a28792facd6635c189194af64dd55615c7bef44f224495ba1e356",
-                 "size":  1469598
+                 "sha256":  "1e5193e8157da42c497617947ca9b18e8eb1b33d9eb270c49c0924394534ea3e",
+                 "size":  1555012
              },
     "notes":  [
                   "شريط «تابعونا» في آخر كل الإيصالات والفواتير: فيسبوك · يوتيوب · تيك توك بتصميم احترافي",
