@@ -10,12 +10,12 @@
                 "size":  1469361
             },
     "lite":  {
-                 "version":  "26.0.195.0",
+                 "version":  "26.0.196.0",
                  "min":  "26.0.190.0",
-                 "files":  24,
+                 "files":  25,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "badd2705979744224cf84c632abee34cb55293220a99745311e1b26cb62e95d2",
-                 "size":  1417034
+                 "sha256":  "90c5ed125e5b169db074e1c3caa1cd6a8d32653361ab20e326eba76d9abd22bb",
+                 "size":  1469362
              },
     "notes":  [
                   "تيكت العروض A5: الطباعة تعمّر الورقة اللي في الطابعة بالضبط (A5 ولا A4) — بلا هوامش بيضاء زايدة",
