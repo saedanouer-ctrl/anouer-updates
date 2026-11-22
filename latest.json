@@ -10,12 +10,12 @@
                 "size":  1574842
             },
     "lite":  {
-                 "version":  "26.0.199.0",
+                 "version":  "26.0.200.0",
                  "min":  "26.0.190.0",
-                 "files":  27,
+                 "files":  29,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "98ff2adf1cfb0a5cb1767849d91d1ca190cdbe0cdc3a70aadbce3612f378ac90",
-                 "size":  1534868
+                 "sha256":  "51d9d84aea03ddba0c3aee6d6e66563c419f269f8d15fc4723de791c8d049d0d",
+                 "size":  1574842
              },
     "notes":  [
                   "شرائح الخصم 2026: تظهر في فاتورة المبيعات بزر أنيق يبيّن النسبة وكم يوفّر العميل",
