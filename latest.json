@@ -10,12 +10,12 @@
                 "size":  1647938
             },
     "lite":  {
-                 "version":  "26.0.200.0",
+                 "version":  "26.0.201.0",
                  "min":  "26.0.190.0",
-                 "files":  29,
+                 "files":  34,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "51d9d84aea03ddba0c3aee6d6e66563c419f269f8d15fc4723de791c8d049d0d",
-                 "size":  1574842
+                 "sha256":  "268fca764c762913ac615db1daa1634d186e9985b7fcadff4f0283ad75ec8743",
+                 "size":  1647938
              },
     "notes":  [
                   "قائمة «الإضافات»: تظهر فيها الإضافات المفعّلة فقط + «الخصائص» — والمقفولة تُفعَّل من بطاقتها في «الخصائص ← الإضافات»",
