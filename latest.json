@@ -10,12 +10,12 @@
                 "size":  1534867
             },
     "lite":  {
-                 "version":  "26.0.198.0",
+                 "version":  "26.0.199.0",
                  "min":  "26.0.190.0",
                  "files":  27,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "1e5193e8157da42c497617947ca9b18e8eb1b33d9eb270c49c0924394534ea3e",
-                 "size":  1555012
+                 "sha256":  "98ff2adf1cfb0a5cb1767849d91d1ca190cdbe0cdc3a70aadbce3612f378ac90",
+                 "size":  1534868
              },
     "notes":  [
                   "حسابات التواصل في الإيصالات: Ctrl+O ← إعدادات النظام ← تبويب «حسابات التواصل» (فيسبوك · يوتيوب · تيك توك + معاينة مباشرة)",
