@@ -10,12 +10,12 @@
                 "size":  1369320
             },
     "lite":  {
-                 "version":  "26.0.193.0",
+                 "version":  "26.0.194.0",
                  "min":  "26.0.190.0",
                  "files":  21,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "fbfead8dad5f2ddd119059dea2e9b18a4c60ea1fd8bd5c2ddc17ade397bce00f",
-                 "size":  1368616
+                 "sha256":  "621d7e9135806ea00e90e0b8a84d82d2feae29a8f7b283e087d7cc7362a071b0",
+                 "size":  1369321
              },
     "notes":  [
                   "مراجعة العملاء: «اختيار الحقول» يخدم — لوحة Customization (سحب وإفلات) + «طريقة العرض»",
