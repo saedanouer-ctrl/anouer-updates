@@ -10,12 +10,12 @@
                 "size":  1417034
             },
     "lite":  {
-                 "version":  "26.0.194.0",
+                 "version":  "26.0.195.0",
                  "min":  "26.0.190.0",
-                 "files":  21,
+                 "files":  24,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "621d7e9135806ea00e90e0b8a84d82d2feae29a8f7b283e087d7cc7362a071b0",
-                 "size":  1369321
+                 "sha256":  "badd2705979744224cf84c632abee34cb55293220a99745311e1b26cb62e95d2",
+                 "size":  1417034
              },
     "notes":  [
                   "تيكت العروض A5 للسوبرماركت: 9 تصاميم ملوّنة احترافية في «طباعة الباركود» (A5-1 … A5-9)",
