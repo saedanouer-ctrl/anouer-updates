@@ -10,12 +10,12 @@
                 "size":  1368615
             },
     "lite":  {
-                 "version":  "26.0.192.0",
+                 "version":  "26.0.193.0",
                  "min":  "26.0.190.0",
-                 "files":  19,
+                 "files":  21,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "8d68c16b1afd477cdb14576bf0e51f65e66ea4dee875d2f85ad16141c972f511",
-                 "size":  1359272
+                 "sha256":  "fbfead8dad5f2ddd119059dea2e9b18a4c60ea1fd8bd5c2ddc17ade397bce00f",
+                 "size":  1368616
              },
     "notes":  [
                   "الدفع: كي يدفع العميل أكثر من الفاتورة وعليه دين سابق ← يسقسيك «خصم الباقي من الدين» ولا «إرجاع الباقي للعميل» (Enter = خصم من الدين)",
