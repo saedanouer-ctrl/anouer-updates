@@ -10,12 +10,12 @@
                 "size":  1717520
             },
     "lite":  {
-                 "version":  "26.0.202.0",
+                 "version":  "26.0.203.0",
                  "min":  "26.0.190.0",
-                 "files":  34,
+                 "files":  35,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "3d39ce5ea46bf10725c98546a005daa5e5c0d8d9b7b3a9b366830474069d61a0",
-                 "size":  1650829
+                 "sha256":  "d2ac24062c4fd2276e51b38658d3f628e72760e0793b592f8ee925b764e5a488",
+                 "size":  1717521
              },
     "notes":  [
                   "تقارير البونص الـ16 بصفحات A4 مثل DEXEF ONE: الشعار والعنوان والفترة والفرع والمخزن",
