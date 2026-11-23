@@ -10,12 +10,12 @@
                 "size":  1757560
             },
     "lite":  {
-                 "version":  "26.0.205.0",
+                 "version":  "26.0.206.0",
                  "min":  "26.0.190.0",
-                 "files":  37,
+                 "files":  38,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "5bee6d770b070f6fa6c1b39d892b015a0567f908093c6b2bdae54866d8db4439",
-                 "size":  1751091
+                 "sha256":  "fdb4cbcf12066142d10fba964193444e2e90dc61d3dbc0540d6f3e4d7eb36030",
+                 "size":  1757561
              },
     "notes":  [
                   "نغمات هادئة 2026 مع حركة متناسقة: الشريحة تتوهّج مع شرارات، والمصروف يدخل بانسياب مع حلقتي «قطرة» — في نفس توقيت النغمة",
