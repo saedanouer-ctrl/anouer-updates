@@ -10,12 +10,12 @@
                 "size":  1757821
             },
     "lite":  {
-                 "version":  "26.0.206.0",
+                 "version":  "26.0.207.0",
                  "min":  "26.0.190.0",
                  "files":  38,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "fdb4cbcf12066142d10fba964193444e2e90dc61d3dbc0540d6f3e4d7eb36030",
-                 "size":  1757561
+                 "sha256":  "b9f6062b1ac0502d65dc274b31cd789bd601e9b22c9a26dbdcc884018ce319c0",
+                 "size":  1757822
              },
     "notes":  [
                   "نغمة المصروفات مع الحركة: عند دخول سطر مصروف جديد (بالكتابة أو بالاختيار من القائمة) وعند تغيير قيمة المصروف — في المبيعات والمشتريات"
