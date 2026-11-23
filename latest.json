@@ -10,12 +10,12 @@
                 "size":  1868009
             },
     "lite":  {
-                 "version":  "26.0.214.0",
+                 "version":  "26.0.215.0",
                  "min":  "26.0.190.0",
                  "files":  44,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "69c4e9cc9089dd9d6a7cf9545d8b97627dc3752e706255e8a3b8ecd7b7cd3e4a",
-                 "size":  1867990
+                 "sha256":  "a00122bbbd7dfbadf3e5242a7a1fe833cf734a813fb50b1436a3280e2217854c",
+                 "size":  1868010
              },
     "notes":  [
                   "إصلاح: تلميح البونص للكاشير «🎁 أضف 2 ← +1 مجاناً» يظهر الآن بالاتجاه الصحيح (+1 بدل 1+) في سطر الصنف ومعاينة نافذة البونص"
