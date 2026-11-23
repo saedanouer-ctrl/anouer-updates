@@ -10,12 +10,12 @@
                 "size":  1751090
             },
     "lite":  {
-                 "version":  "26.0.204.0",
+                 "version":  "26.0.205.0",
                  "min":  "26.0.190.0",
-                 "files":  35,
+                 "files":  37,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "c0a4e4ea2bc3cf82a4035b973fac1ddf9cf93f532f94628f06b4d4dc020cd754",
-                 "size":  1717650
+                 "sha256":  "5bee6d770b070f6fa6c1b39d892b015a0567f908093c6b2bdae54866d8db4439",
+                 "size":  1751091
              },
     "notes":  [
                   "جديد: «الأقساط» — بيع بالتقسيط كامل من قائمة الإضافات (عقد، جدول أقساط تلقائي، تحصيل، متابعة المتأخرين)",
