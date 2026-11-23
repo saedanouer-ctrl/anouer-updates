@@ -10,12 +10,12 @@
                 "size":  1900496
             },
     "lite":  {
-                 "version":  "26.0.216.0",
+                 "version":  "26.0.217.0",
                  "min":  "26.0.190.0",
                  "files":  46,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "07f1e52a44f5cc557d9630cc73851fc5a945b635d1a46472427dc3aeaab141c8",
-                 "size":  1900467
+                 "sha256":  "ac7d65be7156ff12bb5eb50d2bc58acf0d285d5954bf775d3fd14c7eea36e0b3",
+                 "size":  1900496
              },
     "notes":  [
                   "إصلاح: «الموظفين و الرواتب» — قائمة حركات الشهر (صرف الراتب، السلف، المكافآت، الخصومات) تظهر الآن في مكانها الصحيح أسفل كشف الرواتب"
