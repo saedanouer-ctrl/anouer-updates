@@ -10,12 +10,12 @@
                 "size":  1914072
             },
     "lite":  {
-                 "version":  "26.0.217.0",
+                 "version":  "26.0.218.0",
                  "min":  "26.0.190.0",
-                 "files":  46,
+                 "files":  47,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "ac7d65be7156ff12bb5eb50d2bc58acf0d285d5954bf775d3fd14c7eea36e0b3",
-                 "size":  1900496
+                 "sha256":  "850c33e7fba992f4dfff195debc4a528f762d5e8f8aa1c598725770ab220c588",
+                 "size":  1914073
              },
     "notes":  [
                   "إصلاح: مذيع «عاجل · استحقاق» يعلن الآن عن كل العملاء المستحقين واحداً بعد الآخر (ويعيد الدورة) بدل التوقف عند عميل واحد"
