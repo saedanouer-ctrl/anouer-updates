@@ -10,12 +10,12 @@
                 "size":  1994086
             },
     "lite":  {
-                 "version":  "26.0.220.0",
+                 "version":  "26.0.221.0",
                  "min":  "26.0.190.0",
-                 "files":  51,
+                 "files":  52,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "97bc5a49f4f64ff145a7536dace1fd38d25c52edc0c2c5997cdc7839bbaabfde",
-                 "size":  1981803
+                 "sha256":  "b2a9b9abb1f8544365cfc3acf9bbcfbb47503335586a8901ac0724b25923338e",
+                 "size":  1994086
              },
     "notes":  [
                   "شاشة البيع: لا تظليل أزرق على سطور الفاتورة عند النقر المزدوج أو السحب أو Ctrl+A ، والضغط المزدوج غير المقصود على أزرار السطر (Remove / + Qty / − Qty / Units / Return) يُحسب مرة واحدة — بدون أي تغيير في شكل الواجهة"
