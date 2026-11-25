@@ -10,12 +10,12 @@
                 "size":  2075347
             },
     "lite":  {
-                 "version":  "26.0.233.0",
+                 "version":  "26.0.234.0",
                  "min":  "26.0.190.0",
                  "files":  55,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "81901055abf7f55af886828dd0847ebb7a8a9ef97fb120f12e3426d85a06798e",
-                 "size":  2074950
+                 "sha256":  "2091ace26570e5590453b13357119b5e7f256d380e2ca7b5e9c2e90fc1c87857",
+                 "size":  2075347
              },
     "notes":  [
                   "التعرف على الصنف بالكاميرا: الصنف الذي كانت له بطاقة ANOUER مؤقتة ثم وُضعت له صورة حقيقية تظهر صورته الآن في القائمة وتُستعمل في التعرف (كانت تبقى مخفية)"
