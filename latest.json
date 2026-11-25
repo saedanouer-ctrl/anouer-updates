@@ -10,12 +10,12 @@
                 "size":  2074949
             },
     "lite":  {
-                 "version":  "26.0.232.0",
+                 "version":  "26.0.233.0",
                  "min":  "26.0.190.0",
                  "files":  55,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "3ba81b532a4a553d51b4966d6b7e191e5927d79933a945f9949a08454fbcf936",
-                 "size":  2074889
+                 "sha256":  "81901055abf7f55af886828dd0847ebb7a8a9ef97fb120f12e3426d85a06798e",
+                 "size":  2074950
              },
     "notes":  [
                   "التعرف على الصنف بالكاميرا: الصنف الذي يشترك في صورته مع ذوق أو ذوقين آخرين (مثل أذواق STANUTS) تظهر صورته في القائمة وتُستعمل في التعرف — كانت تُعتبر «صورة عامة» وتُخفى"
