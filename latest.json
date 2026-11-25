@@ -10,12 +10,12 @@
                 "size":  2105663
             },
     "lite":  {
-                 "version":  "26.0.235.0",
+                 "version":  "26.0.236.0",
                  "min":  "26.0.190.0",
-                 "files":  55,
+                 "files":  56,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "bf46f1a0f780708c7c54103fc844e19d6bafbad4bdd0eeeaf1678294cbaad7f6",
-                 "size":  2079861
+                 "sha256":  "a8054874aa69abf9419e21a74358ae1ab39dcc4410079f2da3ee76d539d5d524",
+                 "size":  2105664
              },
     "notes":  [
                   "إيصال استلام / دفع نقدية 80 مم: شريط «تابعونا على مواقع التواصل» صار في نفس الإيصال وبنفس عرضه، والشعار كامل وداخل الإطار.",
