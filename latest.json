@@ -10,12 +10,12 @@
                 "size":  2071023
             },
     "lite":  {
-                 "version":  "26.0.229.0",
+                 "version":  "26.0.230.0",
                  "min":  "26.0.190.0",
-                 "files":  54,
+                 "files":  55,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "f54b87f6e329f684c1968616b4c46370ac7699eb6d639ee7284d19ae018f5935",
-                 "size":  2043389
+                 "sha256":  "8ef659028a0c74d45c9afb80a7425dc0b64b2a46b3f4467c7094905ba9ce4cfa",
+                 "size":  2071024
              },
     "notes":  [
                   "التعرف على الصنف بالكاميرا: بحث بالاسم أسرع وأذكى للأصناف التي ليس لها صورة — الاسم المكتوب على العلبة يطابق اسم الصنف سواء كان بالعربية أو اللاتينية (STANUTS = ستانوتس، PEPSI = بيبسي)، ونوع المنتج بلغتين (CACAHUETES = كاوكاو)، مع تحمّل أخطاء القراءة وقراءة أسرع"
