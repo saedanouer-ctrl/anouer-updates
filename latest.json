@@ -10,12 +10,12 @@
                 "size":  2176025
             },
     "lite":  {
-                 "version":  "26.0.242.0",
+                 "version":  "26.0.243.0",
                  "min":  "26.0.190.0",
                  "files":  59,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "fb73653fb5a6bcd18a9e500a2dfb13f24097a5eaa69fd534246da4cd5bca5576",
-                 "size":  2173359
+                 "sha256":  "ac59f2220919d8f0cc9daf99ee47e9cf3c79d30ea9fb10ea5425940107f70b09",
+                 "size":  2176025
              },
     "notes":  [
                   "المصروفات والإيرادات: سطر الإدخال الجديد بتصميم 2026 — وعند اعتماد مبلغ المصروف يدخل السطر بانسياب مع «قطرة ناعمة».",
