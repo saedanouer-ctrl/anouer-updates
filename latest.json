@@ -10,12 +10,12 @@
                 "size":  2185232
             },
     "lite":  {
-                 "version":  "26.0.243.0",
+                 "version":  "26.0.244.0",
                  "min":  "26.0.190.0",
-                 "files":  59,
+                 "files":  60,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "ac59f2220919d8f0cc9daf99ee47e9cf3c79d30ea9fb10ea5425940107f70b09",
-                 "size":  2176025
+                 "sha256":  "5c227a6ef4f6940f316d0254b0cbac0d6896fca2d1e0931d26440c0713cab70f",
+                 "size":  2185233
              },
     "notes":  [
                   "طباعة الباركود «بالصنف» (التيكت الذكي AUTO): أصناف القاطو والقوفريط تُطبع بتيكتين — تيكت القطعة (سعر كبير + سعر الكرتونة للتذكير) وتيكت الكرتونة (شريط أسود «سعر كرتونة ×24» + سعر القطعة داخلها + «وفّر %»)."
