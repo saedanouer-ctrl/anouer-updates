@@ -10,12 +10,12 @@
                 "size":  2167265
             },
     "lite":  {
-                 "version":  "26.0.239.0",
+                 "version":  "26.0.240.0",
                  "min":  "26.0.190.0",
-                 "files":  57,
+                 "files":  59,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "c4ef5e4ea45b257825e962ad578e1db398da74038915702cfe3b3fca0688c912",
-                 "size":  2130116
+                 "sha256":  "fe72dc98aaabb686501b78a1798ca83948b0f5147b345d4abddc086d9ccf72a1",
+                 "size":  2167266
              },
     "notes":  [
                   "بطاقة الصنف — جدول الوحدات: الأسعار تنزل وحدها (باركود آخر للقطعة يأخذ سعر القطعة، العدد 12 يعطي سعر الكرتونة، «كرتونة 36حبة» يكتب العدد 36) مع شارة تشرح الحساب.",
