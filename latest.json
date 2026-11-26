@@ -10,12 +10,12 @@
                 "size":  2210058
             },
     "lite":  {
-                 "version":  "26.0.245.0",
+                 "version":  "26.0.246.0",
                  "min":  "26.0.190.0",
-                 "files":  60,
+                 "files":  62,
                  "url":  "https://raw.githubusercontent.com/saedanouer-ctrl/anouer-updates/main/anouer-lite.zip",
-                 "sha256":  "aa17956d8e8f24dc26b9d17780baf912f8e7df5c014cf543359fdfd2de501caa",
-                 "size":  2185537
+                 "sha256":  "bf1d3deaf0234a638569f1d3141a88b328b0d1146d53f86a6ebd3ee5ddcb50b1",
+                 "size":  2210059
              },
     "notes":  [
                   "أسماء الأصناف بالألوان: اسم الشركة عادي والنوع ملوّن (بنة الزمان «بيسطاش» ، MAXON «GALETTE (بالكاكاو)») — كل نوع بلونه الثابت ، والوزن/الحجم (5كلغ ، 100gr) في شارة رمادية — في نافذة «اختيار الأصناف» ، اقتراحات البحث في الفاتورة ، وأسطر الفاتورة."
